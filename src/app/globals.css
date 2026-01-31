@@ -1,0 +1,113 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* World Labs Inspired - Light Mode */
+  --background: 245 245 245;
+  --foreground: 28 28 28;
+
+  --primary: 28 28 28;
+  --primary-foreground: 255 255 255;
+  --primary-light: 115 115 115;
+  --primary-dark: 0 0 0;
+
+  --card: 255 255 255;
+
+  --muted: 245 245 245;
+  --muted-foreground: 115 115 115;
+  --border: 229 229 229;
+}
+
+body {
+  color: rgb(var(--foreground));
+  background: rgb(var(--background));
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: -0.02em;
+}
+
+@layer utilities {
+  .bg-dot-line-y {
+    background-image: linear-gradient(
+        to right,
+        rgb(var(--primary-light) / 0.5) 2px,
+        transparent 2px
+      ),
+      linear-gradient(
+        to right,
+        rgb(var(--primary-light) / 0.5) 2px,
+        transparent 2px
+      );
+    background-size: 6px 1px;
+    background-position: 0 top, 0 bottom;
+    background-repeat: repeat-x;
+  }
+
+  .bg-dot-line-b {
+    background-image: linear-gradient(
+      to right,
+      rgb(var(--primary-light) / 0.5) 2px,
+      transparent 2px
+    );
+    background-size: 6px 1px;
+    background-position: 0 bottom;
+    background-repeat: repeat-x;
+  }
+
+  .bg-dot-line-t {
+    background-image: linear-gradient(
+      to right,
+      rgb(var(--primary-light) / 0.5) 2px,
+      transparent 2px
+    );
+    background-size: 6px 1px;
+    background-position: 0 top;
+    background-repeat: repeat-x;
+  }
+
+  .bg-dot-line-x {
+    background-image: linear-gradient(
+        to bottom,
+        rgb(var(--primary-light) / 0.5) 2px,
+        transparent 2px
+      ),
+      linear-gradient(
+        to bottom,
+        rgb(var(--primary-light) / 0.5) 2px,
+        transparent 2px
+      );
+    background-size: 1px 6px;
+    background-position: left 0, right 0;
+    background-repeat: repeat-y;
+  }
+
+  .bg-dot-line-r {
+    background-image: linear-gradient(
+      to bottom,
+      rgb(var(--primary-light) / 0.5) 2px,
+      transparent 2px
+    );
+    background-size: 1px 6px;
+    background-position: right 0;
+    background-repeat: repeat-y;
+  }
+
+  .bg-dot-line-l {
+    background-image: linear-gradient(
+      to bottom,
+      rgb(var(--primary-light) / 0.5) 2px,
+      transparent 2px
+    );
+    background-size: 1px 6px;
+    background-position: left 0;
+    background-repeat: repeat-y;
+  }
+}

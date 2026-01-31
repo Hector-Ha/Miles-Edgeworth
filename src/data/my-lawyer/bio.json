@@ -1,0 +1,55 @@
+{
+  "personal_profile": {
+    "name": "Hector Ha",
+    "title": "Full-Stack Developer & Former UI/UX Designer",
+    "location": "Toronto, Canada",
+    "elevator_pitch": "I am a meticulous Full-Stack Developer with a unique background in UI/UX design. I bridge the gap between creative vision and technical execution, building user-centric applications that don't lose the experience in translation. My expertise spans the MERN stack, Next.js, and high-fidelity prototyping."
+  },
+  "career_objective": "A meticulous developer fluent in both logic and aesthetics, bridging the gap between creative vision and technical execution.",
+  "core_competencies": [
+    "Full-stack web development (React, Next.js, Node.js, TypeScript)",
+    "UI/UX design background with 2 years professional experience",
+    "MERN stack development",
+    "Server-side rendering and performance optimization",
+    "User research and high-fidelity prototyping",
+    "Cross-functional team collaboration"
+  ],
+  "career_story": {
+    "origin": "I started in Computer Software Engineering, but found a passion for design. Working as a UI/UX Designer gave me a deep appreciation for the user, but I realized I wanted to build the final product myself.",
+    "key_transitions": [
+      {
+        "from": "UI/UX Designer",
+        "to": "Full-Stack Developer",
+        "reason": "To control the end-to-end user experience and prevent design details from being lost in translation.",
+        "outcome": "A unique ability to design beautiful interfaces and implement them with robust code."
+      }
+    ],
+    "current_focus": "I am currently focused on mastering modern web frameworks like Next.js and integrating AI into practical web applications.",
+    "future_goals": "I aim to become a Lead Full-Stack Engineer who can guide both design and technical decisions."
+  },
+  "working_style": {
+    "collaboration_approach": "I believe in clear communication and early feedback. My design background helps me communicate effectively with both designers and potential users.",
+    "problem_solving_process": "I approach problems from both a user perspective (Is this intuitive?) and a technical one (Is this scalable?).",
+    "communication_style": "Direct, detailed, and visual. I often use prototypes or diagrams to explain complex ideas.",
+    "ideal_work_environment": "A collaborative, fast-paced environment that values both code quality and user experience."
+  },
+  "interests": {
+    "professional": [
+      "AI/ML Ethics",
+      "Open Source",
+      "Building user-centric web experiences",
+      "The intersection of design and development"
+    ],
+    "hobbies": ["Gaming (Ace Attorney fan!)", "Tech Conferences"],
+    "fun_facts": [
+      "My AI assistant is based on Miles Edgeworth because I value logic and truth!",
+      "I have a 3.94 GPA in Software Engineering."
+    ]
+  },
+  "contact": {
+    "email": "duonghv19909@gmail.com",
+    "linkedin": "linkedin.com/in/hector-ha",
+    "github": "github.com/Hector-Ha",
+    "website": "hector-ha.com"
+  }
+}

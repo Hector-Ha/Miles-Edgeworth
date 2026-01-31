@@ -1,0 +1,128 @@
+{
+  "programming_languages": [
+    {
+      "name": "TypeScript",
+      "level": "Expert level",
+      "details": "Primary language for all projects"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Expert level",
+      "details": "5+ years experience"
+    },
+    {
+      "name": "Kotlin",
+      "level": "Proficient",
+      "details": "Modern JVM language for Android development"
+    },
+    {
+      "name": "HTML/CSS",
+      "level": "Expert level",
+      "details": "Semantic markup and modern CSS"
+    },
+    {
+      "name": "SQL",
+      "level": "Proficient",
+      "details": "PostgreSQL, database design"
+    }
+  ],
+  "frontend_frameworks": [
+    {
+      "name": "React",
+      "level": "Expert",
+      "details": "Primary frontend framework"
+    },
+    {
+      "name": "Next.js",
+      "level": "Expert",
+      "details": "App Router, Server Components, SSR/SSG"
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Expert",
+      "details": "Utility-first styling"
+    },
+    {
+      "name": "Framer Motion",
+      "level": "Proficient",
+      "details": "Animation and interactions"
+    },
+    {
+      "name": "Responsive Design",
+      "level": "Expert",
+      "details": "Mobile-first development"
+    }
+  ],
+  "backend_technologies": [
+    {
+      "name": "Node.js",
+      "level": "Expert",
+      "details": "JavaScript runtime for server-side"
+    },
+    {
+      "name": "Express.js",
+      "level": "Expert",
+      "details": "REST API development"
+    },
+    {
+      "name": "GraphQL",
+      "level": "Proficient",
+      "details": "Data query language"
+    },
+    {
+      "name": "REST APIs",
+      "level": "Expert",
+      "details": "Design and implementation"
+    },
+    {
+      "name": "Server-Side Rendering",
+      "level": "Proficient",
+      "details": "SEO optimization"
+    }
+  ],
+  "databases": [
+    {
+      "name": "PostgreSQL",
+      "level": "Proficient",
+      "details": "Relational database"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Proficient",
+      "details": "NoSQL database (MERN stack)"
+    },
+    { "name": "Prisma", "level": "Proficient", "details": "Next-gen ORM" }
+  ],
+  "devops_tools": [
+    {
+      "name": "Git/GitHub",
+      "level": "Expert",
+      "details": "Version control and collaboration"
+    },
+    { "name": "Docker", "level": "Proficient", "details": "Containerization" },
+    { "name": "AWS", "level": "Learning", "details": "Cloud infrastructure" },
+    {
+      "name": "Vercel",
+      "level": "Expert",
+      "details": "Deployment and hosting"
+    },
+    { "name": "CI/CD", "level": "Proficient", "details": "GitHub Actions" }
+  ],
+  "ui_ux_skills": [
+    { "name": "User Research", "details": "2 years professional experience" },
+    { "name": "High-Fidelity Prototyping", "details": "Figma, Adobe XD" },
+    {
+      "name": "Information Architecture",
+      "details": "Optimization and user flow"
+    },
+    { "name": "A/B Testing", "details": "Data-driven design decisions" },
+    { "name": "Wireframing", "details": "From concept to implementation" }
+  ],
+  "soft_skills": [
+    "Cross-functional team collaboration",
+    "Client communication and requirements gathering",
+    "Stakeholder presentation and approval",
+    "Design-to-development handoff expertise",
+    "Agile/Scrum methodologies"
+  ]
+}

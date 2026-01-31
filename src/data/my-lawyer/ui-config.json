@@ -1,0 +1,21 @@
+{
+  "contact_info": {
+    "email": "duonghv19909@gmail.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "Toronto, Canada",
+    "linkedin": "linkedin.com/in/hector-ha",
+    "github": "github.com/Hector-Ha",
+    "portfolio": "hector-ha.com",
+    "website": "hector-ha.com"
+  },
+  "action_buttons": {
+    "resume": {
+      "text": "Download Resume",
+      "action": "download_resume"
+    },
+    "contact": {
+      "text": "Get in Touch",
+      "action": "show_contact"
+    }
+  }
+}

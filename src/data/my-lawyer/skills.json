@@ -2,44 +2,44 @@
   "programming_languages": [
     {
       "name": "TypeScript",
-      "level": "Expert level",
-      "details": "Primary language for all projects"
+      "level": "Advanced",
+      "details": "Primary language for most projects"
     },
     {
       "name": "JavaScript",
-      "level": "Expert level",
-      "details": "5+ years experience"
+      "level": "Advanced",
+      "details": "Modern ES features and tooling"
     },
     {
-      "name": "Kotlin",
+      "name": "Python",
       "level": "Proficient",
-      "details": "Modern JVM language for Android development"
+      "details": "Scripting and automation"
     },
     {
       "name": "HTML/CSS",
-      "level": "Expert level",
+      "level": "Advanced",
       "details": "Semantic markup and modern CSS"
     },
     {
       "name": "SQL",
       "level": "Proficient",
-      "details": "PostgreSQL, database design"
+      "details": "Relational schema design"
     }
   ],
   "frontend_frameworks": [
     {
       "name": "React",
-      "level": "Expert",
+      "level": "Advanced",
       "details": "Primary frontend framework"
     },
     {
       "name": "Next.js",
-      "level": "Expert",
-      "details": "App Router, Server Components, SSR/SSG"
+      "level": "Advanced",
+      "details": "App Router, SSR/SSG"
     },
     {
       "name": "Tailwind CSS",
-      "level": "Expert",
+      "level": "Advanced",
       "details": "Utility-first styling"
     },
     {
@@ -49,19 +49,19 @@
     },
     {
       "name": "Responsive Design",
-      "level": "Expert",
+      "level": "Advanced",
       "details": "Mobile-first development"
     }
   ],
   "backend_technologies": [
     {
       "name": "Node.js",
-      "level": "Expert",
+      "level": "Advanced",
       "details": "JavaScript runtime for server-side"
     },
     {
       "name": "Express.js",
-      "level": "Expert",
+      "level": "Advanced",
       "details": "REST API development"
     },
     {
@@ -71,13 +71,13 @@
     },
     {
       "name": "REST APIs",
-      "level": "Expert",
+      "level": "Advanced",
       "details": "Design and implementation"
     },
     {
       "name": "Server-Side Rendering",
       "level": "Proficient",
-      "details": "SEO optimization"
+      "details": "Performance and SEO"
     }
   ],
   "databases": [
@@ -89,39 +89,67 @@
     {
       "name": "MongoDB",
       "level": "Proficient",
-      "details": "NoSQL database (MERN stack)"
+      "details": "NoSQL database"
     },
-    { "name": "Prisma", "level": "Proficient", "details": "Next-gen ORM" }
+    {
+      "name": "Prisma",
+      "level": "Proficient",
+      "details": "Next-gen ORM"
+    }
   ],
   "devops_tools": [
     {
       "name": "Git/GitHub",
-      "level": "Expert",
+      "level": "Advanced",
       "details": "Version control and collaboration"
     },
-    { "name": "Docker", "level": "Proficient", "details": "Containerization" },
-    { "name": "AWS", "level": "Learning", "details": "Cloud infrastructure" },
+    {
+      "name": "Docker",
+      "level": "Proficient",
+      "details": "Containerization"
+    },
+    {
+      "name": "AWS",
+      "level": "Learning",
+      "details": "Cloud infrastructure"
+    },
     {
       "name": "Vercel",
-      "level": "Expert",
+      "level": "Advanced",
       "details": "Deployment and hosting"
     },
-    { "name": "CI/CD", "level": "Proficient", "details": "GitHub Actions" }
+    {
+      "name": "CI/CD",
+      "level": "Proficient",
+      "details": "GitHub Actions"
+    }
   ],
   "ui_ux_skills": [
-    { "name": "User Research", "details": "2 years professional experience" },
-    { "name": "High-Fidelity Prototyping", "details": "Figma, Adobe XD" },
+    {
+      "name": "User Research",
+      "details": "Interviewing and usability testing"
+    },
+    {
+      "name": "High-Fidelity Prototyping",
+      "details": "Figma, design systems"
+    },
     {
       "name": "Information Architecture",
-      "details": "Optimization and user flow"
+      "details": "Flow mapping and navigation"
     },
-    { "name": "A/B Testing", "details": "Data-driven design decisions" },
-    { "name": "Wireframing", "details": "From concept to implementation" }
+    {
+      "name": "A/B Testing",
+      "details": "Data-driven design decisions"
+    },
+    {
+      "name": "Wireframing",
+      "details": "From concept to implementation"
+    }
   ],
   "soft_skills": [
     "Cross-functional team collaboration",
     "Client communication and requirements gathering",
-    "Stakeholder presentation and approval",
+    "Stakeholder presentation and alignment",
     "Design-to-development handoff expertise",
     "Agile/Scrum methodologies"
   ]

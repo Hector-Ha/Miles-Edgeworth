@@ -1,50 +1,46 @@
 [
   {
     "title": "Full-Stack Web Developer",
-    "company": "Freelance",
-    "duration": "Aug 2025 - Present",
-    "location": "Toronto, Canada",
+    "company": "Independent Consultant",
+    "duration": "2023 - Present",
+    "location": "Example City, Country",
     "responsibilities": [
-      "Developed fully responsive websites using the MERN stack",
-      "Built custom admin panels for real-time content management",
-      "Implemented server-side rendering with Next.js for SEO optimization",
-      "Managed end-to-end project delivery and client communication"
+      "Delivered responsive web applications using modern full-stack frameworks",
+      "Built custom admin dashboards for content and operations management",
+      "Implemented performance and accessibility improvements",
+      "Coordinated with stakeholders to define scope and milestones"
     ],
     "achievements": [
-      "Resolved critical usability issues on outdated client sites",
-      "Increased engagement for over 150 customers",
-      "Built user-friendly admin panel for real-time content updates to pricing and schedules",
-      "Improved search engine rankings and organic traffic through SSR implementation",
-      "Reduced data entry errors with intuitive admin interface"
+      "Launched multiple client projects on schedule",
+      "Improved page performance through optimized rendering",
+      "Reduced support requests with clearer UI workflows",
+      "Automated content updates to minimize manual effort"
     ],
     "technologies": [
       "React",
       "Next.js",
       "Node.js",
-      "MongoDB",
-      "Express.js",
+      "PostgreSQL",
       "TypeScript",
       "Tailwind CSS"
     ]
   },
   {
-    "title": "UI/UX Designer",
-    "company": "Lollypop Design Studio Vietnam",
-    "duration": "Jul 2022 - Jun 2024",
-    "location": "Vietnam",
+    "title": "Product Designer",
+    "company": "Studio North",
+    "duration": "2021 - 2023",
+    "location": "Example City, Country",
     "responsibilities": [
-      "Collaborated with product owners and cross-functional teams",
-      "Conducted UX research including interviews and data analysis",
-      "Designed high-fidelity UI prototypes from wireframes and sitemaps",
-      "Optimized information architecture for desktop and mobile platforms"
+      "Conducted user research and synthesized insights",
+      "Designed high-fidelity UI prototypes and design systems",
+      "Optimized information architecture for web and mobile",
+      "Partnered with engineering to validate feasibility"
     ],
     "achievements": [
-      "Achieved 30% reduction in user navigation time through IA optimization",
-      "Enhanced overall site usability across desktop and mobile platforms",
-      "Conducted over 5 UX research sessions with insightful reports",
-      "Designed and conducted A/B tests on 20+ high-fidelity UI prototypes",
-      "Increased stakeholder approval rates by 40%",
-      "Ensured alignment with business objectives through data-driven design"
+      "Shortened onboarding flows with clearer IA",
+      "Created a reusable design system adopted across teams",
+      "Improved usability test scores through iterative design",
+      "Aligned stakeholders with visual prototypes and evidence"
     ],
     "skills_demonstrated": [
       "User research and analysis",
@@ -58,7 +54,7 @@
   {
     "career_transition": {
       "reason": "Why I Transitioned from Design to Development",
-      "details": "After spending two years as a UI/UX Designer at Lollypop Design Studio, I often saw the user experience get lost in translation when designs were handed off to developers. I realized that optimizing information architecture on a canvas was not enough - to truly control the end-to-end experience, I needed to build it myself. This realization drove me to pursue full-stack development while retaining my design thinking foundation."
+      "details": "After working in product design, I pursued full-stack development to deliver end-to-end experiences and preserve design intent."
     }
   }
 ]

@@ -1,12 +1,12 @@
 {
   "contact_info": {
-    "email": "duonghv19909@gmail.com",
-    "phone": "+1 (555) 123-4567",
-    "location": "Toronto, Canada",
-    "linkedin": "linkedin.com/in/hector-ha",
-    "github": "github.com/Hector-Ha",
-    "portfolio": "hector-ha.com",
-    "website": "hector-ha.com"
+    "email": "hello@example.com",
+    "phone": "+1 (555) 010-1234",
+    "location": "Example City, Country",
+    "linkedin": "linkedin.com/in/example-name",
+    "github": "github.com/example",
+    "portfolio": "example.com",
+    "website": "example.com"
   },
   "action_buttons": {
     "resume": {

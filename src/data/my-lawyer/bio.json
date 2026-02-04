@@ -1,55 +1,59 @@
 {
   "personal_profile": {
-    "name": "Hector Ha",
-    "title": "Full-Stack Developer & Former UI/UX Designer",
-    "location": "Toronto, Canada",
-    "elevator_pitch": "I am a meticulous Full-Stack Developer with a unique background in UI/UX design. I bridge the gap between creative vision and technical execution, building user-centric applications that don't lose the experience in translation. My expertise spans the MERN stack, Next.js, and high-fidelity prototyping."
+    "name": "Alex Morgan",
+    "title": "Full-Stack Developer & Product Designer",
+    "location": "Example City, Country",
+    "elevator_pitch": "Detail-oriented full-stack developer with a product-design background, bridging visual intent and technical execution."
   },
-  "career_objective": "A meticulous developer fluent in both logic and aesthetics, bridging the gap between creative vision and technical execution.",
+  "career_objective": "A thoughtful builder who connects product thinking with robust engineering.",
   "core_competencies": [
     "Full-stack web development (React, Next.js, Node.js, TypeScript)",
-    "UI/UX design background with 2 years professional experience",
-    "MERN stack development",
-    "Server-side rendering and performance optimization",
-    "User research and high-fidelity prototyping",
-    "Cross-functional team collaboration"
+    "Product design and prototyping",
+    "API design and integration",
+    "Performance optimization and accessibility",
+    "User research and usability testing",
+    "Cross-functional collaboration"
   ],
   "career_story": {
-    "origin": "I started in Computer Software Engineering, but found a passion for design. Working as a UI/UX Designer gave me a deep appreciation for the user, but I realized I wanted to build the final product myself.",
+    "origin": "Started in software engineering and discovered a love for design.",
     "key_transitions": [
       {
-        "from": "UI/UX Designer",
+        "from": "Product Designer",
         "to": "Full-Stack Developer",
-        "reason": "To control the end-to-end user experience and prevent design details from being lost in translation.",
-        "outcome": "A unique ability to design beautiful interfaces and implement them with robust code."
+        "reason": "To deliver end-to-end experiences without losing design intent.",
+        "outcome": "A hybrid skill set that blends visual craft with engineering rigor."
       }
     ],
-    "current_focus": "I am currently focused on mastering modern web frameworks like Next.js and integrating AI into practical web applications.",
-    "future_goals": "I aim to become a Lead Full-Stack Engineer who can guide both design and technical decisions."
+    "current_focus": "Modern web frameworks and practical AI integration.",
+    "future_goals": "Grow into a lead role that guides product direction and technical architecture."
   },
   "working_style": {
-    "collaboration_approach": "I believe in clear communication and early feedback. My design background helps me communicate effectively with both designers and potential users.",
-    "problem_solving_process": "I approach problems from both a user perspective (Is this intuitive?) and a technical one (Is this scalable?).",
-    "communication_style": "Direct, detailed, and visual. I often use prototypes or diagrams to explain complex ideas.",
-    "ideal_work_environment": "A collaborative, fast-paced environment that values both code quality and user experience."
+    "collaboration_approach": "Clear communication, early feedback, and shared understanding.",
+    "problem_solving_process": "Start with user needs, validate assumptions, then engineer for scalability.",
+    "communication_style": "Structured, visual, and detail-oriented.",
+    "ideal_work_environment": "Collaborative teams that value quality and user experience."
   },
   "interests": {
     "professional": [
-      "AI/ML Ethics",
-      "Open Source",
-      "Building user-centric web experiences",
-      "The intersection of design and development"
+      "Human-centered AI",
+      "Open-source collaboration",
+      "Design systems",
+      "Accessible web experiences"
     ],
-    "hobbies": ["Gaming (Ace Attorney fan!)", "Tech Conferences"],
+    "hobbies": [
+      "Board games",
+      "Sketching",
+      "Reading"
+    ],
     "fun_facts": [
-      "My AI assistant is based on Miles Edgeworth because I value logic and truth!",
-      "I have a 3.94 GPA in Software Engineering."
+      "Enjoys turning complex requirements into clear product flows.",
+      "Keeps a personal checklist for pixel-level QA."
     ]
   },
   "contact": {
-    "email": "duonghv19909@gmail.com",
-    "linkedin": "linkedin.com/in/hector-ha",
-    "github": "github.com/Hector-Ha",
-    "website": "hector-ha.com"
+    "email": "hello@example.com",
+    "linkedin": "linkedin.com/in/example-name",
+    "github": "github.com/example",
+    "website": "example.com"
   }
 }

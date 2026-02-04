@@ -70,7 +70,7 @@ async function fetchUrlMetadata(url: string): Promise<LinkMetadata> {
       signal: controller.signal,
       headers: {
         "User-Agent":
-          "Mozilla/5.0 (compatible; HectorPortfolioBot/1.0; +https://hectorha.com)",
+          "Mozilla/5.0 (compatible; PortfolioBot/1.0; +https://example.com)",
         Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       },
     });

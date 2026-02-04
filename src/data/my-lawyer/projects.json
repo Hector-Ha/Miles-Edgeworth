@@ -1,91 +1,99 @@
 [
   {
-    "name": "Interlock",
-    "type": "Fintech App",
+    "name": "Project Atlas",
+    "type": "Fintech Prototype",
     "company": "Personal Project",
-    "duration": "2024",
+    "duration": "2025",
     "team_size": "Solo Developer",
-    "overview": "A secure banking platform allowing users to link accounts and transfer funds seamlessly.",
-    "challenge": "Building a secure, reliable financial application that integrates with real-world banking APIs while maintaining a simple, user-friendly interface.",
-    "solution": "Implemented a robust architecture using Plaid for banking data and Dwolla for payment processing. Secured personal data with AES-256 encryption.",
-    "your_role": "Designed and developed the entire application, including the secure authentication flow and real-time transaction processing.",
+    "overview": "A secure banking prototype allowing users to connect accounts and initiate transfers.",
+    "challenge": "Building a secure, reliable application that integrates with multiple financial services while keeping the UX simple.",
+    "solution": "Implemented a robust architecture with encrypted data handling, real-time verification, and audit-friendly logging.",
+    "your_role": "Designed and developed the full application, including authentication, dashboards, and transaction flows.",
     "technologies": [
       "Next.js",
       "TypeScript",
-      "Appwrite",
-      "Plaid",
-      "Dwolla",
+      "PostgreSQL",
+      "Node.js",
       "React Hook Form",
       "Zod",
-      "Tailwind CSS",
-      "Shadcn UI"
-    ],
-    "results": {
-      "metrics": ["Real-time bank account linking", "Secure fund transfers"],
-      "impact": "Demonstrated capability in building secure, high-stakes financial applications.",
-      "learnings": [
-        "Integration of complex third-party financial APIs",
-        "Advanced security patterns for sensitive data"
-      ]
-    },
-    "links": {
-      "github": "https://github.com/Hector-Ha/Interlock"
-    }
-  },
-  {
-    "name": "AltShift",
-    "type": "Real-time Collaboration Tool",
-    "company": "Personal Project",
-    "duration": "2024",
-    "team_size": "Solo Developer",
-    "overview": "A Google Docs alternative with real-time collaboration and AI-powered editing features.",
-    "challenge": "Enabling multiple users to edit a document simultaneously without conflicts, while integrating AI assistance naturally into the workflow.",
-    "solution": "Used Liveblocks for real-time websocket connections and Groq for fast AI inference counters to generate text and translate content.",
-    "your_role": "Full-stack implementation of the real-time engine and AI integration.",
-    "technologies": [
-      "Next.js",
-      "Liveblocks",
-      "Lexical Editor",
-      "Groq AI",
-      "Clerk Auth",
       "Tailwind CSS"
     ],
     "results": {
       "metrics": [
-        "Sub-100ms latency for collaborative edits",
-        "Instant AI text generation"
+        "Real-time account linking",
+        "Secure transfer flows"
+      ],
+      "impact": "Demonstrated capability in building secure, high-stakes applications.",
+      "learnings": [
+        "Integrating third-party financial APIs",
+        "Security patterns for sensitive data"
+      ]
+    },
+    "links": {
+      "github": "https://github.com/example/project-atlas"
+    }
+  },
+  {
+    "name": "Project Beacon",
+    "type": "Real-time Collaboration Tool",
+    "company": "Personal Project",
+    "duration": "2025",
+    "team_size": "Solo Developer",
+    "overview": "A collaborative editor with live cursors and AI-assisted writing features.",
+    "challenge": "Synchronizing edits across multiple users without conflicts while keeping latency low.",
+    "solution": "Built a real-time engine with websocket synchronization and AI-assisted suggestions.",
+    "your_role": "Full-stack implementation of collaboration, persistence, and AI integration.",
+    "technologies": [
+      "Next.js",
+      "WebSockets",
+      "Lexical Editor",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "results": {
+      "metrics": [
+        "Sub-second collaborative edits",
+        "Instant AI suggestions"
       ],
       "impact": "Created a seamless collaborative writing environment.",
       "learnings": [
-        "Handling websocket conflict resolution",
+        "Conflict resolution in shared documents",
         "Rich text editor state management"
       ]
     },
     "links": {
-      "github": "https://github.com/Hector-Ha/AltShift"
+      "github": "https://github.com/example/project-beacon"
     }
   },
   {
-    "name": "XDevVerse",
-    "type": "Hackathon Platform",
+    "name": "Project Cascade",
+    "type": "Event Platform",
     "company": "Personal Project",
-    "duration": "2024",
+    "duration": "2025",
     "team_size": "Solo Developer",
-    "overview": "A comprehensive platform for organizing and managing hackathons, from registration to judging.",
-    "challenge": "Managing complex event lifecycles, team formations, and project submissions in one unified platform.",
-    "solution": "Built a scalable schema to handle events, teams, and judging criteria. Added real-time leaderboards and automated notifications.",
-    "your_role": "Architected the database schema and built the full user flow for organizers and participants.",
-    "technologies": ["Next.js", "Convex", "Clerk", "Shadcn UI", "Tailwind CSS"],
+    "overview": "A platform for running events with registration, submissions, and scoring.",
+    "challenge": "Coordinating multiple roles, workflows, and evaluations in a single system.",
+    "solution": "Designed a scalable data model and built dashboards with real-time updates.",
+    "your_role": "Architected the data model and built the end-to-end user experience.",
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "Tailwind CSS"
+    ],
     "results": {
-      "metrics": ["Streamlined hackathon management process"],
-      "impact": "Simplifies the logistics of running large-scale coding events.",
+      "metrics": [
+        "Streamlined event management"
+      ],
+      "impact": "Simplifies the logistics of running multi-stage events.",
       "learnings": [
-        "Complex relation modeling in database",
-        "Event-driven architecture"
+        "Complex relational modeling",
+        "Event-driven updates"
       ]
     },
     "links": {
-      "github": "https://github.com/Hector-Ha/XDevVerse"
+      "github": "https://github.com/example/project-cascade"
     }
   }
 ]

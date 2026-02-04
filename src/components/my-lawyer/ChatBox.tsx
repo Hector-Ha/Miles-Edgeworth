@@ -434,7 +434,7 @@ export function ChatBox({
                 value={input}
                 onChange={handleInputChange}
                 onKeyDown={handleKeyDown}
-                placeholder="Ask about Hector's qualifications..."
+                placeholder="Ask about the candidate's qualifications..."
                 disabled={isLoading}
                 className="chatbox-input"
               />

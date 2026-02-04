@@ -1,39 +1,39 @@
 [
   {
-    "degree": "Ontario College Graduate Certificate",
+    "degree": "Graduate Certificate",
     "program": "Web Development",
-    "institution": "Conestoga College",
-    "duration": "Aug 2024 - Dec 2025",
-    "location": "Ontario, Canada",
+    "institution": "Example Institute of Technology",
+    "duration": "Sep 2021 - Dec 2022",
+    "location": "Example City, Country",
     "relevant_coursework": [
-      "JavaScript Programming",
-      "Full Stack Programming",
+      "Modern JavaScript",
+      "Full-Stack Web Applications",
       "Database Design",
-      "Mobile Application Development",
-      "Server-Side Development",
-      "Front-End Frameworks"
+      "Cloud Fundamentals",
+      "UX for Developers",
+      "API Design"
     ]
   },
   {
     "degree": "Bachelor's Degree",
-    "major": "Computer Software Engineering",
-    "institution": "University of Information Technology",
-    "duration": "2019 - Aug 2023",
-    "gpa": "3.94/4.0",
-    "location": "Vietnam",
+    "major": "Software Engineering",
+    "institution": "Example University",
+    "duration": "2017 - 2021",
+    "gpa": "3.7/4.0",
+    "location": "Example City, Country",
     "relevant_coursework": [
       "Data Structures & Algorithms",
-      "Java Object-Oriented Programming",
-      "Web Applications Development",
+      "Object-Oriented Programming",
+      "Web Application Development",
       "Database Systems",
       "Software Engineering",
       "Computer Networks"
     ],
     "extracurricular_activities": [
-      "Member of the Student Association of the Faculty of Software Technology",
-      "Organized over 6 academic workshops for students",
-      "Coordinated volunteering programs serving 1000+ students",
-      "Developed leadership and event management skills"
+      "Student tech club member",
+      "Organized peer workshops",
+      "Volunteered at community coding events",
+      "Led small project teams"
     ]
   },
   {
@@ -41,16 +41,16 @@
       "focus_areas": [
         "Advanced React patterns and performance optimization",
         "Next.js App Router and Server Components",
-        "AI/ML integration in web applications",
-        "Cloud infrastructure (AWS)",
-        "Mobile development with Kotlin"
+        "AI integration in web applications",
+        "Cloud infrastructure fundamentals",
+        "Mobile development basics"
       ]
     }
   },
   {
     "languages": {
       "English": "Fluent (Professional working proficiency)",
-      "Vietnamese": "Native"
+      "Spanish": "Conversational"
     }
   }
 ]

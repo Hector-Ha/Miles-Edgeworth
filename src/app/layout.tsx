@@ -48,9 +48,9 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "The Prosecution of Hector | Miles Edgeworth",
+  title: "The Prosecution of the Candidate | Miles Edgeworth",
   description:
-    "Interactive portfolio chatbot where Miles Edgeworth presents evidence of Hector Ha's professional qualifications. Cross-examine the defendant!",
+    "Interactive portfolio chatbot where Miles Edgeworth presents evidence of a candidate's professional qualifications. Cross-examine the case!",
   keywords: [
     "portfolio",
     "chatbot",
@@ -59,10 +59,10 @@ export const metadata: Metadata = {
     "developer",
     "interactive",
     "courtroom",
-    "Hector Ha",
+    "candidate",
   ],
   openGraph: {
-    title: "The Prosecution of Hector | Miles Edgeworth",
+    title: "The Prosecution of the Candidate | Miles Edgeworth",
     description: "Interactive portfolio chatbot with Ace Attorney theme",
     type: "website",
   },

@@ -488,7 +488,7 @@ export function Courtroom({ onClose }: CourtroomProps) {
               className="font-serif text-ms text-foreground"
               variants={headerVariants}
             >
-              The Prosecution of Hector
+              The Prosecution of the Candidate
             </motion.h1>
             <motion.p
               className="text-muted-foreground text-base -mt-0.5"

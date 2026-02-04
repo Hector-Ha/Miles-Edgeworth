@@ -1,6 +1,6 @@
 # Miles Edgeworth - The Personal Lawyer
 
-> **An Ace Attorney–inspired interactive portfolio chatbot where Miles Edgeworth presents evidence of Hector Ha’s professional qualifications.**
+> **An Ace Attorney–inspired interactive portfolio chatbot where Miles Edgeworth presents evidence of a candidate’s professional qualifications.**
 
 ## TL;DR
 

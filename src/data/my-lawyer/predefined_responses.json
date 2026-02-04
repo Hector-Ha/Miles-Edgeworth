@@ -1,191 +1,195 @@
 {
   "welcome_messages": [
     "Welcome.\n\nI am Miles Edgeworth. It is my distinct honor to guide you through this portfolio.\n\nBefore we proceed, may I ask who I have the pleasure of addressing?",
-    "Greetings.\n\nI am here to present Hector's case for your consideration.\n\nTo ensure I address you with the proper respect, might I inquire as to your name?",
-    "It is a pleasure to meet you.\n\nI have prepared a comprehensive look at the evidence. But first, protocol demands introductions.\n\nMay I know your name?",
-    "The defense is ready.\n\nI intend to demonstrate Hector's qualifications with absolute clarity.\n\nTo whom do I have the honor of speaking today?"
+    "Greetings.\n\nI am here to present my client's case for your consideration.\n\nTo ensure I address you with the proper respect, might I inquire as to your name?",
+    "The defense is ready.\n\nI intend to demonstrate the client's qualifications with absolute clarity.\n\nTo whom do I have the honor of speaking today?"
   ],
   "predefined_answers": {
     "My Work": {
       "texts": [
-        "I am pleased to share Hector's portfolio for your review.\n\nNotably, he built responsive MERN stack applications serving over 150 customers and designed high-fidelity prototypes that improved stakeholder approval by 40%.\n\nHis transition from UI/UX to Full-Stack development allows him to bridge the gap between creative vision and technical execution perfectly.",
-        "It reflects positively on my client to present his portfolio for your examination.\n\nWith responsive MERN stack applications serving over 150 customers, the evidence of his impact is substantial. His high-fidelity prototypes alone improved stakeholder approval by 40%.\n\nHe has successfully bridged the gap between creative vision and technical execution.",
-        "Referencing the evidence of his past projects, Hector has demonstrated exceptional capability.\n\nHe constructed MERN stack applications for over 150 customers and increased stakeholder approval by 40% through high-fidelity prototyping.\n\nA clear transition from UI/UX to Full-Stack development is evident."
+        "I am pleased to share my client's portfolio for your review.\n\nNotably, the client delivered Project Atlas, Project Beacon, and Project Cascade—three distinct systems showcasing full-stack execution.\n\nThis body of work demonstrates a balance of product design and engineering rigor.",
+        "It reflects positively on my client to present this portfolio for your examination.\n\nAcross Project Atlas, Project Beacon, and Project Cascade, the evidence shows attention to usability, performance, and reliability."
       ],
       "mood": "CONFIDENT",
       "spriteState": "confident",
-      "chips": ["Interlock details", "AltShift details", "XDevVerse info", "Experience", "Skills", "About Me"]
+      "chips": [
+        "Project Atlas details",
+        "Project Beacon details",
+        "Project Cascade info",
+        "Experience",
+        "Skills",
+        "About Me"
+      ]
     },
     "Experience": {
       "texts": [
-        "If I may direct your attention to his professional history...\n\nMost recently, he operated as a Freelance Full-Stack Developer in Toronto, building custom admin panels and optimizing SEO with Next.js.\n\nPrior to that, he served as a UI/UX Designer at Lollypop Design Studio for two years, where he optimized information architecture.",
-        "The defendant's professional history is quite compelling.\n\nAs a Freelance Full-Stack Developer in Toronto, he specialized in custom admin panels and SEO optimization via Next.js.\n\nFurthermore, his two-year tenure as a UI/UX Designer at Lollypop Design Studio demonstrates a strong foundation in information architecture.",
-        "A review of his past engagements reveals specific patterns of excellence.\n\nIn Toronto, he operated as a Freelance Full-Stack Developer, delivering custom admin panels. Before this, he spent two years at Lollypop Design Studio.\n\nHis trajectory provided deep expertise in both SEO optimization and information architecture."
+        "If I may direct your attention to his professional history...\n\nMost recently, he operated as an independent full-stack developer, delivering custom dashboards and performance optimizations.\n\nPrior to that, he served as a product designer at a studio, refining information architecture and research practices.",
+        "The client's professional history is quite compelling.\n\nIndependent delivery and studio design work combine into a rare dual-discipline perspective."
       ],
       "mood": "PRESENTING",
       "spriteState": "presenting",
-      "chips": ["Freelance work?", "Lollypop Studio?", "Resume", "My Work", "Skills", "Contact Me"]
+      "chips": [
+        "Freelance work?",
+        "Studio experience?",
+        "Resume",
+        "Skills",
+        "About Me",
+        "Contact Me"
+      ]
     },
     "Skills": {
       "texts": [
-        "The technical evidence is undeniable, Your Honor.\n\n• Frontend: Expert in React, Next.js, and TypeScript.\n• Backend: Proficient in Node.js, Express, and PostgreSQL.\n• Design: Professional background in UI/UX Research and Figma.\n\nHe is, if I may say so, a true 'hybrid' professional.",
-        "Competence in modern technologies is clearly demonstrated.\n\n• Frontend: Mastery of React, Next.js, and TypeScript.\n• Backend: Skilled in Node.js, Express, and PostgreSQL.\n• Design: Verified background in UI/UX Research and Figma.\n\nA versatile skillset, indeed.",
-        "Regarding his technical capabilities, the record speaks for itself.\n\n• Frontend: React, Next.js, TypeScript.\n• Backend: Node.js, Express, PostgreSQL.\n• Design: UI/UX Research, Figma.\n\nHe combines these disciplines to function as a highly effective hybrid professional."
+        "The technical evidence is undeniable.\n\n• Frontend: React, Next.js, TypeScript\n• Backend: Node.js, Express, PostgreSQL\n• Design: UI/UX research and prototyping\n\nA versatile, hybrid skillset.",
+        "Competence in modern technologies is clearly demonstrated.\n\nFrontend, backend, and design disciplines are all represented in his work."
       ],
       "mood": "EXPLAINING",
       "spriteState": "presenting",
-      "chips": ["React projects", "Backend work", "Design portfolio", "My Work", "Experience", "About Me"]
+      "chips": [
+        "Tech Stack",
+        "Experience",
+        "My Work"
+      ]
     },
     "About Me": {
       "texts": [
-        "Allow me to introduce the person behind the code.\n\nHector is a developer based in Toronto who values clarity and precision. He transitioned from design to development to have complete control over the final product.\n\nWhen not coding, he applies his strategic thinking to other creative pursuits.",
-        "Beyond the technical specifications lies the individual.\n\nBased in Toronto, Hector is a developer who prioritizes clarity. His shift from design to development was driven by a desire for total product control.\n\nHis strategic mindset extends well beyond the realm of code.",
-        "To understand the developer, one must examine the person.\n\nHector operates out of Toronto, valuing precision above all else. He moved from design to development to ensure the final product met his exacting standards.\n\nA logical mind, applied to both coding and creative endeavors."
+        "Allow me to introduce the person behind the code.\n\nThe client values clarity, precision, and user-first thinking. He transitioned from design to development to deliver end-to-end experiences.",
+        "Beyond the technical specifications lies the individual.\n\nA strategic mindset guides both product decisions and engineering execution."
       ],
       "mood": "SMIRKING",
       "spriteState": "confident",
-      "chips": ["Personal story?", "Hobbies?", "Philosophy?", "Experience", "Skills", "Contact Me"]
+      "chips": [
+        "Personal story?",
+        "Hobbies?",
+        "Philosophy?"
+      ]
     },
     "Contact Me": {
       "texts": [
-        "Should you wish to speak with Hector directly, here are the appropriate channels.\n\nYou may reach him via email to discuss potential collaborations or view his code repositories to verify his technical aptitude.",
-        "Direct communication channels have been established.\n\nEmail is available for collaboration inquiries. Additionally, his code repositories are open for your inspection to verify his technical aptitude.",
-        "If you require further testimony from the candidate himself, you may contact him.\n\nHe is available via email for potential collaborations. I also invite you to review his code repositories personally."
+        "Should you wish to speak with the client directly, the appropriate channels are available.\n\nEmail and professional profiles can be shared for collaboration inquiries.",
+        "Direct communication channels have been established.\n\nEmail is available for collaboration inquiries, and professional profiles can be provided upon request."
       ],
       "mood": "BOWING",
       "spriteState": "bowing",
-      "chips": ["Copy Email", "LinkedIn", "GitHub", "Resume", "My Work", "About Me"]
+      "chips": [
+        "Copy Email",
+        "LinkedIn",
+        "GitHub"
+      ]
     },
     "Resume": {
       "texts": [
-        "I herewith submit the defendant's resume to the court record.\n\nIt details his extensive experience in both design and development, as well as his academic achievements.\n\nPlease, accept this document for your review.",
-        "For your official review, the curriculum vitae.\n\nThis document outlines his academic achievements and extensive experience in design and development.\n\nI trust you will find it in order.",
-        "Proceeding with the submission of professional credentials.\n\nThe resume details his dual experience in design and development, alongside his academic record.\n\nIt is submitted for your consideration."
+        "I herewith submit the client's resume to the record.\n\nIt details his experience in both design and development, as well as academic achievements.",
+        "Proceeding with the submission of professional credentials.\n\nThe resume is submitted for your consideration."
       ],
       "mood": "PRESENTING",
       "spriteState": "presenting",
-      "chips": ["Download PDF", "Experience", "Skills", "My Work", "Contact Me", "About Me"]
+      "chips": [
+        "Download PDF",
+        "Experience",
+        "Skills"
+      ]
     },
-    "Interlock details": {
+    "Project Atlas details": {
       "texts": [
-        "Interlock is a secure fintech app, if it pleases the court.\n\nIt bridges banking data (Plaid) and payments (Dwolla). Features include real-time account verification and AES-256 encryption.",
-        "Exhibit A: Interlock. A secure fintech application.\n\nIt successfully bridges banking data via Plaid with payments via Dwolla. Key features include AES-256 encryption and real-time verification.",
-        "Regarding Interlock: This fintech app provides a secure bridge between banking data and payments.\n\nUtilizing Plaid and Dwolla, it features real-time account verification and AES-256 encryption."
+        "Project Atlas is a secure finance prototype.\n\nIt connects account data with payment workflows and emphasizes audit-ready security controls.",
+        "Exhibit A: Project Atlas. A secure financial application with strong data-protection practices."
       ],
       "mood": "PRESENTING",
       "spriteState": "presenting",
-      "chips": ["Show Interlock", "Tech Stack", "AltShift details", "XDevVerse info", "My Work", "Skills"]
+      "chips": [
+        "Project Beacon details",
+        "Project Cascade info",
+        "Tech Stack"
+      ]
     },
-    "AltShift details": {
+    "Project Beacon details": {
       "texts": [
-        "AltShift is a real-time collaborative editor.\n\nIt uses Socket.IO and AI (Groq) to bridge word processing with AI creation tools. A fascinating innovation, indeed.",
-        "Exhibit B: AltShift. A real-time collaborative editor.\n\nBy utilizing Socket.IO and AI (Groq), it bridges the gap between traditional word processing and AI creation. Truly innovative.",
-        "Next, AltShift. This real-time collaborative editor leverages Socket.IO and AI.\n\nIt connects word processing with AI creation tools in a most fascinating manner."
+        "Project Beacon is a real-time collaborative editor with live synchronization and AI assistance.",
+        "Exhibit B: Project Beacon. A collaboration suite focused on speed and clarity."
       ],
       "mood": "PRESENTING",
       "spriteState": "presenting",
-      "chips": ["Show AltShift", "Tech Stack", "Interlock details", "XDevVerse info", "My Work", "Skills"]
+      "chips": [
+        "Project Atlas details",
+        "Project Cascade info",
+        "Tech Stack"
+      ]
     },
-    "XDevVerse info": {
+    "Project Cascade info": {
       "texts": [
-        "XDevVerse is a hackathon platform.\n\nIt manages the entire lifecycle of events with AI-powered judging and real-time leaderboards. Quite the logistical feat.",
-        "Exhibit C: XDevVerse. A comprehensive hackathon platform.\n\nIt handles the entire event lifecycle, featuring AI-powered judging and real-time leaderboards. A logistical triumph.",
-        "Finally, XDevVerse. This platform manages hackathon lifecycles.\n\nWith AI-powered judging and real-time leaderboards, it represents a significant logistical achievement."
+        "Project Cascade is an event platform that manages registration, submissions, and scoring.",
+        "Exhibit C: Project Cascade. A cohesive system for multi-stage event operations."
       ],
       "mood": "PRESENTING",
       "spriteState": "presenting",
-      "chips": ["Show XDevVerse", "Tech Stack", "Interlock details", "AltShift details", "My Work", "Skills"]
-    },
-    "Design usage?": {
-      "texts": [
-        "His design background is critical, Your Honor.\n\nHe uses Figma for high-fidelity prototyping and conducts user research to ensure the final code matches the user's needs.",
-        "The significance of his design background cannot be overstated.\n\nThrough Figma prototyping and user research, he ensures the codebase aligns perfectly with user requirements.",
-        "I must emphasize his design expertise. It is a critical asset.\n\nHe employs Figma for high-fidelity prototyping and conducts user research to guarantee the code meets the user's needs."
-      ],
-      "mood": "THINKING",
-      "spriteState": "thinking",
-      "chips": ["Show Designs", "Design portfolio", "My Work", "Experience", "Skills", "About Me"]
+      "chips": [
+        "Project Atlas details",
+        "Project Beacon details",
+        "Tech Stack"
+      ]
     },
     "Freelance work?": {
       "texts": [
-        "His freelance career demonstrates independence and initiative.\n\nHe built custom admin panels, integrated payment systems, and optimized SEO for multiple clients in Toronto.\n\nA testament to his ability to deliver end-to-end solutions.",
-        "The freelance evidence is compelling.\n\nCustom admin panels, payment integrations, and SEO optimization—all delivered independently to Toronto clients.\n\nThis demonstrates his capacity for end-to-end project ownership."
+        "His independent work demonstrates initiative, including custom dashboards, integrations, and performance optimization."
       ],
       "mood": "CONFIDENT",
       "spriteState": "confident",
-      "chips": ["Lollypop Studio?", "My Work", "Skills", "Resume", "Contact Me", "About Me"]
+      "chips": [
+        "Studio experience?"
+      ]
     },
-    "Lollypop Studio?": {
+    "Studio experience?": {
       "texts": [
-        "At Lollypop Design Studio, he refined his craft.\n\nOver two years, he optimized information architecture and created design systems that improved team efficiency.\n\nThis foundation informs his development work today.",
-        "His tenure at Lollypop Design Studio was formative.\n\nTwo years of optimizing information architecture and building design systems have directly influenced his approach to development.\n\nA strong foundation, indeed."
+        "At a product studio, he refined information architecture and built design systems that improved team efficiency."
       ],
       "mood": "PRESENTING",
       "spriteState": "presenting",
-      "chips": ["Freelance work?", "Design usage?", "Experience", "Skills", "My Work", "About Me"]
-    },
-    "React projects": {
-      "texts": [
-        "React is central to his technical arsenal.\n\nHe has built complex SPAs with state management, custom hooks, and performance optimization.\n\nThe evidence of his React proficiency is substantial.",
-        "His React expertise is well-documented.\n\nComplex single-page applications, custom hooks, and state management patterns—all executed with precision.\n\nThe technical evidence speaks for itself."
-      ],
-      "mood": "EXPLAINING",
-      "spriteState": "presenting",
-      "chips": ["Backend work", "Tech Stack", "My Work", "Interlock details", "AltShift details", "Skills"]
-    },
-    "Backend work": {
-      "texts": [
-        "On the backend, his capabilities are equally impressive.\n\nNode.js, Express, and PostgreSQL form his core stack. He has implemented RESTful APIs and database optimization.\n\nA full-stack developer in the truest sense.",
-        "The backend evidence is compelling.\n\nHe works with Node.js, Express, and PostgreSQL to build RESTful APIs with proper database design.\n\nTruly a full-stack professional."
-      ],
-      "mood": "EXPLAINING",
-      "spriteState": "presenting",
-      "chips": ["React projects", "Tech Stack", "My Work", "Skills", "Experience", "Contact Me"]
-    },
-    "Design portfolio": {
-      "texts": [
-        "His design portfolio showcases his visual acumen.\n\nFrom wireframes to high-fidelity prototypes, he demonstrates mastery of the design process.\n\nThis informs his development with user-centered thinking.",
-        "The design portfolio presents clear evidence.\n\nWireframes, prototypes, and user research—all executed with precision.\n\nHis design thinking directly influences his code quality."
-      ],
-      "mood": "PRESENTING",
-      "spriteState": "presenting",
-      "chips": ["Show Designs", "Design usage?", "My Work", "Skills", "Experience", "About Me"]
+      "chips": [
+        "Freelance work?"
+      ]
     },
     "Personal story?": {
       "texts": [
-        "Hector's journey is one of deliberate evolution.\n\nStarting in design, he recognized the need for technical control. This drove his transition to full-stack development.\n\nA strategic mind that sees the bigger picture.",
-        "The personal narrative reveals strategic thinking.\n\nFrom designer to developer, each step was calculated. He sought complete control over the products he creates.\n\nA purposeful evolution."
+        "The client's journey reflects a deliberate transition from design to full-stack development for end-to-end ownership."
       ],
       "mood": "SMIRKING",
       "spriteState": "confident",
-      "chips": ["Hobbies?", "Philosophy?", "About Me", "Experience", "My Work", "Contact Me"]
+      "chips": [
+        "Hobbies?",
+        "Philosophy?"
+      ]
     },
     "Hobbies?": {
       "texts": [
-        "Beyond the code, he pursues diverse interests.\n\nStrategic games, creative writing, and continuous learning occupy his time outside work.\n\nThese pursuits sharpen the mind.",
-        "His hobbies reflect his character.\n\nStrategic thinking through games, creativity through writing, and an unending pursuit of knowledge.\n\nA well-rounded individual."
+        "Beyond the code, he enjoys strategy games, creative writing, and continuous learning."
       ],
       "mood": "SMIRKING",
       "spriteState": "confident",
-      "chips": ["Personal story?", "Philosophy?", "About Me", "Skills", "My Work", "Contact Me"]
+      "chips": [
+        "Personal story?",
+        "Philosophy?"
+      ]
     },
     "Philosophy?": {
       "texts": [
-        "His development philosophy is straightforward.\n\nClarity over complexity. User needs above all. Continuous improvement in every iteration.\n\nPrinciples that guide every project.",
-        "The guiding principles are clear.\n\nSimplicity, user-centricity, and iterative improvement define his approach.\n\nA philosophy that produces results."
+        "Clarity over complexity, user needs above all, and continuous improvement in every iteration."
       ],
       "mood": "THINKING",
       "spriteState": "thinking",
-      "chips": ["Personal story?", "Hobbies?", "About Me", "Skills", "Experience", "My Work"]
+      "chips": [
+        "Personal story?"
+      ]
     },
     "Tech Stack": {
       "texts": [
-        "The technical evidence is comprehensive.\n\n• Frontend: React, Next.js, TypeScript, Tailwind CSS\n• Backend: Node.js, Express, PostgreSQL, MongoDB\n• Tools: Git, Docker, Figma, Vercel\n\nA modern and versatile stack.",
-        "His technology choices reflect industry best practices.\n\nReact and Next.js for frontend, Node.js and PostgreSQL for backend, with modern tooling throughout.\n\nA stack built for scalability."
+        "• Frontend: React, Next.js, TypeScript\n• Backend: Node.js, Express, PostgreSQL\n• Tools: Git, Docker, Figma\n\nA modern and versatile stack."
       ],
       "mood": "EXPLAINING",
       "spriteState": "presenting",
-      "chips": ["React projects", "Backend work", "Skills", "My Work", "Experience", "Contact Me"]
+      "chips": [
+        "Skills",
+        "My Work"
+      ]
     }
   }
 }

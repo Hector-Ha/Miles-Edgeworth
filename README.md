@@ -1,10 +1,10 @@
-# Miles Edgeworth — The Lawyer
+# Miles Edgeworth - The Personal Lawyer
 
 > **An Ace Attorney–inspired interactive portfolio chatbot where Miles Edgeworth presents evidence of Hector Ha’s professional qualifications.**
 
 ## TL;DR
 
-Miles Edgeworth — The Lawyer is a courtroom‑themed portfolio experience built with **Next.js (App Router)**, **React 19**, and **TypeScript**, featuring a persona‑driven chatbot powered by the **NVIDIA Inference API**. It uses RAG‑style “evidence” from local JSON files and supports file uploads (OCR + PDF/DOCX parsing) and URL content ingestion to enrich answers.
+Miles Edgeworth is a courtroom‑themed portfolio experience built with **Next.js (App Router)**, **React 19**, and **TypeScript**, featuring a persona‑driven chatbot powered by the **NVIDIA Inference API**. It uses RAG‑style “evidence” from local JSON files and supports file uploads (OCR + PDF/DOCX parsing) and URL content ingestion to enrich answers.
 
 ### Quick Start
 
@@ -113,7 +113,7 @@ Open `http://localhost:3000`.
 
 ## Contributing
 
-This is a private portfolio project. For questions or collaboration inquiries, please contact the maintainer.
+For questions or collaboration inquiries, please contact the maintainer.
 
 ## Acknowledgments
 
